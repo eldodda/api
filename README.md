@@ -29,11 +29,11 @@ RAÍZ DO PROJETO
 - **Implementações**
   Como este é um projeto de estudo, pretendo implantar aqui todas as boas práticas que tenho aprendido e que vou aprender pelo caminho, como testes, bancos de dados, adaptadores, interfaces e etc. Então acho de bom tom listar aqui, e ir adicionando pontos a serem considerados tanto na escrita como nas futuras refatorações e novos projetos.
 
-Métodos e implementações
-: - SOLID;
-: - Testes;
-: - Bancos de dados;
-: - **Typescript:** Interfaces, adaptadores, TypeORM.
+**Métodos e implementações**
+1. SOLID;
+2. Testes;
+3. Bancos de dados;
+4. **Typescript:** Interfaces, adaptadores, TypeORM.
 
 - **Commits e progresso**
   É preciso _sabedoria_ e _responsabilidade_ para fazer os commits nos pontos certos do progresso, a fim de manter uma árvore _coerente_, e facilitar futuros _debugs_. É bom praticar isso e as branches, é muito importante para o _trabalho_.
